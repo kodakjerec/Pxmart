@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<setup>
+  <monitor>
+    <application>
+      <item name="PTC" ip="127.0.0.1" port="2828" path="D:\WorkSpace\PrintCenterBy批次_New\PrintCenter\bin\Release\PrintCenter.exe" user="" password=""></item>
+    </application>
+	<device>
+	</device>
+  </monitor>
+</setup>
+
+<!--	  
+	  <item name="TestServer" ip="127.0.0.1" port="3838" path="D:\WorkSpace\Pxmart\TestServer\bin\Debug\TestServer.exe"></item>
+-->

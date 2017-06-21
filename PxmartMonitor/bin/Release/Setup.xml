@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<setup>
+  <monitor>
+    <application>
+      <item name="LocalMonitor" ip="172.20.5.227" port="4949" path=""></item>
+      <item name="EAIServer" ip="172.20.5.227" port="1813" path=""></item>
+      <item name="PrinterEngine" ip="192.168.120.118" port="2828" path=""></item>
+	  <item name="TAKO" ip="192.168.120.162" port="2828" path="F:\Projects\生鮮\LCU同步\EAIServer\EAIServer\bin\Debug\TAKOServer.exe"></item>
+    </application>
+    <device>
+    </device>
+  </monitor>
+</setup>
+<!--
+<item name="DEP" ip="172.20.5.227" port="1813" path="C:\pxmart\EAIServer回收\EAIServer.exe"  user="administrator" password="Px16740494"></item>
+-->

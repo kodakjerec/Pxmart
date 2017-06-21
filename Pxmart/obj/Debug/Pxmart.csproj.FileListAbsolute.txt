@@ -1,0 +1,9 @@
+D:\WorkSpace\Pxmart\Pxmart\bin\Debug\Pxmart.dll
+D:\WorkSpace\Pxmart\Pxmart\bin\Debug\Pxmart.pdb
+D:\WorkSpace\Pxmart\Pxmart\obj\Debug\Pxmart.dll
+D:\WorkSpace\Pxmart\Pxmart\obj\Debug\Pxmart.pdb
+D:\WorkSpace\Pxmart\Pxmart\obj\Debug\Pxmart.csprojResolveAssemblyReference.cache
+F:\Projects\生鮮\LCU同步\EAIServer\Pxmart\Pxmart\bin\Debug\Pxmart.dll
+F:\Projects\生鮮\LCU同步\EAIServer\Pxmart\Pxmart\bin\Debug\Pxmart.pdb
+F:\Projects\生鮮\LCU同步\EAIServer\Pxmart\Pxmart\obj\Debug\Pxmart.dll
+F:\Projects\生鮮\LCU同步\EAIServer\Pxmart\Pxmart\obj\Debug\Pxmart.pdb

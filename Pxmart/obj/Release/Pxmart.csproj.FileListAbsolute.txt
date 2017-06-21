@@ -1,0 +1,10 @@
+D:\WorkSpace\Pxmart\Pxmart\bin\Release\Pxmart.dll
+D:\WorkSpace\Pxmart\Pxmart\bin\Release\Pxmart.pdb
+D:\WorkSpace\Pxmart\Pxmart\obj\Release\Pxmart.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Pxmart\Pxmart\obj\Release\Pxmart.dll
+D:\WorkSpace\Pxmart\Pxmart\obj\Release\Pxmart.pdb
+F:\Projects\生鮮\LCU同步\EAIServer\Pxmart\Pxmart\bin\Release\Pxmart.dll
+F:\Projects\生鮮\LCU同步\EAIServer\Pxmart\Pxmart\bin\Release\Pxmart.pdb
+F:\Projects\生鮮\LCU同步\EAIServer\Pxmart\Pxmart\obj\Release\Pxmart.csprojResolveAssemblyReference.cache
+F:\Projects\生鮮\LCU同步\EAIServer\Pxmart\Pxmart\obj\Release\Pxmart.dll
+F:\Projects\生鮮\LCU同步\EAIServer\Pxmart\Pxmart\obj\Release\Pxmart.pdb
